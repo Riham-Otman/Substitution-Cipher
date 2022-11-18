@@ -1,0 +1,23 @@
+Plaintext add outcome: true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+System reports key valid status:
+true
+Bad argument provided
+
+Ciphertext add outcome: true
+System reports key valid status:
+true
+Bad argument provided
+
+quit

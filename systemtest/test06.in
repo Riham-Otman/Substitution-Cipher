@@ -1,0 +1,9 @@
+plain abc
+key a x
+key b y
+key c z
+encode null
+cipher zyx
+decode null
+quit
+

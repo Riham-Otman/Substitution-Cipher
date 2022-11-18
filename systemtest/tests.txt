@@ -1,0 +1,10 @@
+00 Basic encoding of one line of plaintext
+01 Try to encode plaintext when the key is insufficient and so the encoding should fail
+02 Encode multi-line plaintext
+03 Basic decoding of one line of ciphertext
+04 Check that a null string doesn't break ciphertext
+05 Check that we can work with empty content
+06 A null print writer shouldn't stop the extraction of text from the SubstutionCipher object
+07 Working with different Caesar cipher shifts
+08 Simple tests to infer the shift of a Caesar cipher
+

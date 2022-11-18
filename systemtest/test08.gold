@@ -1,0 +1,120 @@
+Most likely shift is 0
+System reports key valid status:
+true
+Full key is:
+  a -> e
+  b -> f
+  c -> g
+  d -> h
+  e -> i
+  f -> j
+  g -> k
+  h -> l
+  i -> m
+  j -> n
+  k -> o
+  l -> p
+  m -> q
+  n -> r
+  o -> s
+  p -> t
+  q -> u
+  r -> v
+  s -> w
+  t -> x
+  u -> y
+  v -> z
+  w -> a
+  x -> b
+  y -> c
+  z -> d
+end of key
+Most likely shift is 4
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+true
+Most likely shift is 4
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+true
+Most likely shift is 5
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+true
+Most likely shift is 4
+quit

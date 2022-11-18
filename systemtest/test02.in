@@ -1,0 +1,10 @@
+plain abc
+pappend CBA
+key a b
+key b c
+key c a
+showkey
+showplain
+encode
+quit
+

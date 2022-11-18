@@ -1,0 +1,8 @@
+plain abc
+caesarcipher -1
+caesarcipher 26
+caesarcipher 0
+caesarcipher 1
+encode
+quit
+

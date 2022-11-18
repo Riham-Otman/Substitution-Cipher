@@ -1,0 +1,11 @@
+Plaintext add outcome: false
+Plaintext append outcome: true
+System reports key valid status:
+true
+null returned for encoded string
+Ciphertext add outcome: false
+Ciphertext append outcome: true
+System reports key valid status:
+true
+null returned for decrypted string
+quit

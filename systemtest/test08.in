@@ -1,0 +1,29 @@
+infershift
+caesarcipher 4
+infershift
+key a f
+key b g
+key c h
+key d e
+infershift
+key d i
+key e j
+key f k
+key g l
+key h m
+key i n
+key j o
+key k p
+key l q
+key m r
+key n e
+infershift
+key i o
+key j p
+key k q
+key l r
+key m e
+key n n
+infershift
+quit
+
