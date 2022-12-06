@@ -1,0 +1,29 @@
+
+v
+java:S1319"`The type of "key" should be an interface such as "Map" rather than the implementation "HashMap".(»ßá
+„
+java:S1319Ø"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(õÇÂÉ
+t
+java:S1488æ"]Immediately return this expression instead of assigning it to the temporary variable "valid".(¦—·«
+E
+java:S5411d"*Use the primitive boolean expression here.(ÙÔùùÿÿÿÿ
+F
+java:S5411œ"*Use the primitive boolean expression here.(…Îèşÿÿÿÿ
+C
+java:S2447w"-Null is returned but a "Boolean" is expected.(¥¹ï
+G
+java:S1481V",Remove this unused "encoded" local variable.(¨Œ¼Ëÿÿÿÿÿ
+C
+java:S1481g"-Remove this unused "charRead" local variable.(à…ŒŒ
+D
+java:S2447¯"-Null is returned but a "Boolean" is expected.(¥¹ï
+C
+java:S1481Œ",Remove this unused "decoded" local variable.(Ê½”
+D
+java:S1481Ÿ"-Remove this unused "charRead" local variable.(à…ŒŒ
+O	java:S106ò"9Replace this use of System.out or System.err by a logger.(¾§£˜
+O	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(¾§£˜
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

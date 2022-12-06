@@ -1,0 +1,31 @@
+Plaintext add outcome: true
+Plaintext append outcome: true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+System reports key valid status:
+true
+Full key is:
+  a -> b
+  b -> c
+  c -> a
+end of key
+Stored plaintext:
+abc
+CBA
+System reports key valid status:
+true
+Returned string:
+bca
+ACB
+
+quit

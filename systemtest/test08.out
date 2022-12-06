@@ -1,0 +1,92 @@
+Bad command: infershift
+Bad command: caesarcipher
+Bad command: 4
+Bad command: infershift
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Bad command: infershift
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Bad command: infershift
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+false
+Change return:
+true
+System reports key valid status:
+true
+Bad command: infershift
+quit

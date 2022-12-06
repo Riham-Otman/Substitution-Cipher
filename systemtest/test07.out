@@ -1,0 +1,13 @@
+Plaintext add outcome: true
+Bad command: caesarcipher
+Bad command: -1
+Bad command: caesarcipher
+Bad command: 26
+Bad command: caesarcipher
+Bad command: 0
+Bad command: caesarcipher
+Bad command: 1
+System reports key valid status:
+true
+null returned for encoded string
+quit

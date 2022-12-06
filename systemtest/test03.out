@@ -1,0 +1,48 @@
+Ciphertext add outcome: true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+Change return:
+true
+System reports key valid status:
+true
+System reports key valid status:
+true
+Full key is:
+  d -> f
+  e -> x
+  h -> c
+  l -> j
+  o -> t
+  r -> r
+  w -> o
+end of key
+Stored ciphertext:
+cxjjt otrjf
+System reports key valid status:
+true
+Returned string:
+hello world
+
+quit

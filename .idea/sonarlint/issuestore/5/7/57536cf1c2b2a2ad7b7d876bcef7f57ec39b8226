@@ -1,0 +1,15 @@
+
+E
+java:S3740."/Provide the parametrized type for this generic.(ÁŞ×
+w
+java:S1319"bThe type of "inKey" should be an interface such as "Map" rather than the implementation "HashMap".(¬è¹x
+ƒ
+java:S1319-"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(õÇÂÉ
+M
+java:S1135W"2Complete the task associated to this TODO comment.(â¹Ğşÿÿÿÿ
+h
+java:S3776i"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(òı¬è
+M
+java:S1135l"2Complete the task associated to this TODO comment.(õõÛ‘ÿÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
