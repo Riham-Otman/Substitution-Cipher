@@ -1,0 +1,24 @@
+
+List of Refactorings
+====================
+
+Name/Banner# of Developer : Riham Otman B00887629
+
+Systems tests passing : 1-6
+
+Refactorings:
+=============
+
+Class: SubstitionCipher
+
+1. Method: extractPlaintext()
+ implemented extractPlaintext() and extractCiphertext() to let the system tests pass
+2. Method: extractCiphertext()
+   added an output to make test06 to pass
+3. Method: encodeText()
+   loop was missing a true return statement I fixed it so that it returns true if the text can be used as plaintext
+4. Method: encodeText()
+   loop was missing a true return statement I fixed it so that it returns true if the text can be used as plaintext
+5. Added caesar class to allow  the creation of an encryption key based on a character shift.
+
+

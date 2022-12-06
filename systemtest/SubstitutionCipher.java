@@ -9,8 +9,8 @@ public class SubstitutionCipher {
     private SubstitutionKey encryptKey = null;
     private Corpus plain = null;
     private Corpus cipher = null;
-    private String encrptText = null;
-    private String decryptText = null;
+    private String eText = null;
+    private String dText = null;
 
     /**
      * Constructor to create a completely empty cipher
@@ -122,8 +122,8 @@ public class SubstitutionCipher {
             }
             plain.endCorpus();
 
-            encrptText = inProgress.toString();
-            if(encrptText.length()>0){
+            eText = inProgress.toString();
+            if(eText.length()>0){
                 return true;
 
             }
@@ -178,8 +178,8 @@ public class SubstitutionCipher {
             }
             cipher.endCorpus();
 
-            decryptText = inProgress.toString();
-            if(decryptText.length()>0){
+            dText = inProgress.toString();
+            if(dText.length()>0){
                 return true;
 
             }
@@ -238,11 +238,11 @@ public class SubstitutionCipher {
      * @param output -- the output device.
      */
     public void extractPlaintext( PrintWriter output ) {
-        if (decryptText== null || output == null){
+        if (dText== null || output == null){
             System.out.println("Bad argument provided");
             return;
         }
-        output.print(decryptText);
+        output.print(dText);
     }
 
     /**
@@ -251,11 +251,11 @@ public class SubstitutionCipher {
      * @param output -- the output device.
      */
     public void extractCiphertext( PrintWriter output ) {
-        if (encrptText == null || output == null){
+        if (eText == null || output == null){
             System.out.println("Bad argument provided");
             return;
         }
-        output.print(encrptText);
+        output.print(eText);
 
     }
 }
